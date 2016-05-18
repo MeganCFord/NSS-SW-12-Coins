@@ -28,7 +28,7 @@ cd 12-coins
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-12-Coins)
 
 
 ![screenshot](coins-screenshot.jpg)
